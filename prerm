@@ -1,0 +1,2 @@
+update-alternatives --remove libcudnn /usr/include/x86_64-linux-gnu/cudnn_v6.h 
+

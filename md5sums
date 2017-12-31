@@ -1,0 +1,5 @@
+c4a9275a5de6540562fd65bb5edbfd56  usr/include/x86_64-linux-gnu/cudnn_v6.h
+d2b3c8457e102079fb07ce2d2f1a54e7  usr/lib/x86_64-linux-gnu/libcudnn_static_v6.a
+8340e1d3531d032c41b6bbd44b3d1939  usr/share/doc/libcudnn6-dev/changelog.Debian.gz
+d41d8cd98f00b204e9800998ecf8427e  usr/share/doc/libcudnn6-dev/copyright
+9511836cd4cc8224e4add9c44296a371  usr/share/lintian/overrides/libcudnn6-dev
